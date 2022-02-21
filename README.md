@@ -5,5 +5,3 @@ Ejercicios de listas,mapas,funciones,clases y herencias.
 - [ ] [Funciones basicas](https://dartpad.dartlang.org/3c720634cea8d2da332cd6242ac6a5da)
 - [ ] [clase](https://dartpad.dartlang.org/ed3085a4fbc08be8231658c65f18c844)
 - [ ] [Herencia](https://dartpad.dartlang.org/17c5bf2f64d416fdba904c211fd937d1)
-
-,
